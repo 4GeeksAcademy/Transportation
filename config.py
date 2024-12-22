@@ -1,0 +1,1 @@
+SQLALCHEMY_DATABASE_URI = "mssql+pyodbc:///?odbc_connect=DRIVER={ODBC Driver 17 for SQL Server};SERVER=(localdb)\\MSSQLLocalDB;DATABASE=your_database_name;Trusted_Connection=yes" 
